@@ -1,0 +1,5 @@
+中国股票信息网站   ----WebService 
+    服务地址： ChinaStockWebService    ---- http://www.webxml.com.cn/WebServices/ChinaStockWebService.asmx
+
+中国外汇信息服务地址
+    服务地址：ExchangeRateWebService  ---- http://webservice.webxml.com.cn/WebServices/ExchangeRateWebService.asmx 
