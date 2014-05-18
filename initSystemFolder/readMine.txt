@@ -3,3 +3,10 @@
 
 中国外汇信息服务地址
     服务地址：ExchangeRateWebService  ---- http://webservice.webxml.com.cn/WebServices/ExchangeRateWebService.asmx 
+    
+
+股市直击       ----爬取地址 ： http://stock.stockstar.com/list/3833.shtml
+重大新闻       ----爬取地址 ： http://stock.stockstar.com/list/majornews.htm
+公司研究       ----爬取地址：http://stock.stockstar.com/list/3491.shtml
+板块掘金       ----爬取地址：http://stock.stockstar.com/list/sectors.htm
+新闻头条       ----爬取地址：http://wallstreetcn.com/topnews
