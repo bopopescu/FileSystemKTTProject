@@ -10,3 +10,5 @@
 公司研究       ----爬取地址：  http://stock.stockstar.com/list/3491.shtml
 板块掘金       ----爬取地址：  http://stock.stockstar.com/list/sectors.htm
 新闻头条       ----爬取地址：  http://wallstreetcn.com/topnews
+证券时报       ----爬取地址:  http://kuaixun.stcn.com/list/kxqq.shtml
+                      http://kuaixun.stcn.com/list/kxgs.shtml   
