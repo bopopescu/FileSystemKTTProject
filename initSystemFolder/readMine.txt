@@ -12,3 +12,5 @@
 新闻头条       ----爬取地址：  http://wallstreetcn.com/topnews
 证券时报       ----爬取地址:  http://kuaixun.stcn.com/list/kxqq.shtml
                       http://kuaixun.stcn.com/list/kxgs.shtml   
+                      
+第一财经       ----爬取地址: http://www.yicai.com/stock/ssgs/
