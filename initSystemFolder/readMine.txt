@@ -33,3 +33,5 @@ http://finance.qq.com/l/stock/qwmy/index.htm
 http://finance.qq.com/stock/gsgc.htm
 http://finance.qq.com/stock/lhxx.htm
 http://www.cnstock.com/
+http://stock.huagu.com/jgnc/hytx/  行情
+http://stock.huagu.com/hgsd/  观点
