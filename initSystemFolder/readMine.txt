@@ -64,3 +64,6 @@ YAHOO金融市场价格 http://quote.yahoo.com/
 《纽约时报 》http://www.nytimes.com/
 《华尔街日报》 http://www.wsj.com/
 
+
+http://finance.takungpao.com/financial/gsyj/
+http://finance.takungpao.com/tech/
