@@ -16,7 +16,7 @@
  * 所属项目:财汇网
  * 文件名称:${file_name}
  * 作者:${user}
- * 版权信息: 版权所有 © 2013-2016 科投股份有限公司
+ * 版权信息: 版权所有 © 2014-2016 科投股份有限公司
  */</template><template autoinsert="false" context="constructorcomment_context" deleted="false" description="Comment for created constructors" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.constructorcomment" name="constructorcomment">/**
  * ${file_name} 默认构造
  */</template><template autoinsert="true" context="fieldcomment_context" deleted="false" description="Comment for fields" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.fieldcomment" name="fieldcomment">/**
